@@ -1,44 +1,55 @@
 body {
     background-color: bisque;
+    color: blueviolet;
 }
 
 h1 {
     background-color: aquamarine;
+    color: gold;
 }
 
 p.tekst1 {
     background-color: rgb(21, 49, 49);
+    color: palevioletred;
 }
 
 h2.podtytul {
     background-color: rgb(150, 99, 24);
+    color: white;
 }
 
 p.tekst {
     background-color: blue;
+    color: aqua;
 }
 
 
 p.tekst2 {
     background-color: rgb(113, 54, 168);
+    color: aquamarine;
 }
 
 li.item1 {
     background-color: rgba(165, 42, 42, 0.683);
+    color: bisque;
 }
 
 li.item2 {
     background-color: rgba(77, 198, 53, 0.735);
+    color: purple;
 }
 
 li.item3 {
     background-color: rgb(255, 196, 230);
+    color: red;
 }
 
 li.item4 {
     background-color: rgb(77, 109, 103);
+    color: brown;
 }
 
 li.item5 {
     background-color: rgb(120, 14, 102);
+    color: azure;
 }
